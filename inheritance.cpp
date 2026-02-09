@@ -41,7 +41,7 @@ public:
         return balance;
     }
 };
-
+// for this class
 
 class SavingsAccount : public BankAccount {
 private:
